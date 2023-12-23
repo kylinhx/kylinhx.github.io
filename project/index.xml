@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Kylin Han</title>
+    <link>http://www.kylinhanx.com/project/</link>
+      <atom:link href="http://www.kylinhanx.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.kylinhanx.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>http://www.kylinhanx.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Detection Box - Assisting Night Driving with Infrared Camera</title>
+      <link>http://www.kylinhanx.com/project/infrared/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.kylinhanx.com/project/infrared/</guid>
+      <description>&lt;p&gt;Compared to traditional threshold segmentation algorithms, deep learning-based object detection methods exhibit higher accuracy and stronger robustness. In infrared image object detection tasks, threshold segmentation algorithms are susceptible to various factors, such as the types of clothing pedestrians wear (more clothing leads to decreased recognition performance in cold weather). In contrast, algorithms based on the YOLO model are more comprehensive. They have matured to effectively address these complex scenarios, not only improving the accuracy of object detection but also enhancing the system&amp;rsquo;s adaptability to diverse environmental changes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;example_inf&#34; srcset=&#34;
+               /project/infrared/example_inf_hu7255ac4abd3430bae8b8e06c95981574_1528650_806d7d787aeb78ea05659d648c4d598e.webp 400w,
+               /project/infrared/example_inf_hu7255ac4abd3430bae8b8e06c95981574_1528650_bd91706fca88bc0ddcd28ab7938f2e61.webp 760w,
+               /project/infrared/example_inf_hu7255ac4abd3430bae8b8e06c95981574_1528650_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://www.kylinhanx.com/project/infrared/example_inf_hu7255ac4abd3430bae8b8e06c95981574_1528650_806d7d787aeb78ea05659d648c4d598e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We tested our device on real roads, and the performance of our recognition model and device is quite impressive. Here are some results from the tests we conducted on roads near our company.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
